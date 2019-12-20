@@ -33,4 +33,9 @@ public class BasicController {
         //返回index.jsp
         return "index";
     }
+
+    @RequestMapping("/grid")
+    public String grid(){
+        return "grid";
+    }
 }
