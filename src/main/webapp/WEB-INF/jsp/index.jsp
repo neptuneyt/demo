@@ -17,7 +17,7 @@
 <body>
 <div class="container">
     <div class="page-header">
-        <h1 class="text-primary">这是一个简单的甲基化数据库</h1>
+        <h1 class="text-primary">这是一个简单的数据库</h1>
     </div>
 
     <h3>1. 确定数据模型 (Model), 设计创建数据库表 <small><a href="#entity" class="btn btn-xs btn-success" data-toggle="collapse">查看</a></small></h3>
